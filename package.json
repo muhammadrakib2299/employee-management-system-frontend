@@ -2,6 +2,13 @@
   "name": "employe-management-frontend",
   "version": "0.1.0",
   "private": true,
+  "description": "Employee management system frontend \u2014 Next.js + TypeScript (early scaffold).",
+  "author": "Md. Rakib (https://devrakib.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muhammadrakib2299/employee-management-system-frontend.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
